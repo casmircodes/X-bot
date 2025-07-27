@@ -1,1 +1,16 @@
 My X/tweeter secret credentials
+
+
+
+
+API key:
+
+"Lp7FLITTieimZpiB0ROGcPocK"
+
+
+API KEY SECRET:
+
+"HUPXIWCd20aYP5pTGxKR4ypawxW8lmsHm5dhA4ROigpEcIEOg8"
+
+
+
